@@ -55,8 +55,8 @@ I enjoy creating apps that **solve real-world problems** and deliver **impactful
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MIbrahimDevX&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbrahimDevX&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MIbrahimDevX&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbrahimDevX&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
