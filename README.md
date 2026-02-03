@@ -19,7 +19,7 @@
 ---
 
 ## 🌟 About Me
-Hi! I am **Muhammad Ibrahim**, a passionate **Flutter & Web Developer**.  
+Hi! I am **Muhammad Ibrahim**, a passionate **Flutter Developer**.  
 I design and build **high-performance, user-friendly mobile applications** with clean architecture and smooth **UI/UX**.  
 I enjoy creating apps that **solve real-world problems** and deliver **impactful experiences**.
 
