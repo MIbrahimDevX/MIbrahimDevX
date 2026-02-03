@@ -1,6 +1,6 @@
 # Muhammad Ibrahim
 
-🎓 Computer Science Graduate  
+🎓 Computer Science(Software) Graduate  
 💻 Flutter & Web Developer | Mobile Application Development
 
 ---
