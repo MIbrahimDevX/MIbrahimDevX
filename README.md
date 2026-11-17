@@ -33,20 +33,7 @@ I enjoy creating apps that **solve real-world problems** and deliver **impactful
 <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117&color=2EA44F" alt="Firebase"/></a>
 </p>
 
----
 
-## 📊 Skill Levels
-
-| Skill           | Level |
-|-----------------|-------|
-| Flutter         | ██████████ 95% |
-| Dart            | █████████ 90%  |
-| Firebase        | █████████ 85%  |
-| HTML & CSS      | █████████ 80%  |
-| Python          | █████ 40%      |
-| C++             | █████ 40%      |
-
----
 
 ## 📈 GitHub Stats
 
